@@ -1,9 +1,24 @@
 .bdy_bcgrd {
   background-color: #F0ECF5;
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 150px;
 }
 
-#coldiv_1 {
+#p {
+  font-family: "courier new", monospace;
+  margin-left: 0;
+  margin-right: 50%;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: 100px;
+  background-color: blue;
+}
 
+.body {
+  margin: 0 !important;
+  padding: 0 !important;
 }
