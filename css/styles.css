@@ -3,10 +3,8 @@
   height: 200px;
   width: 200px;
   padding: 20px;
-  border-style: solid;
-  border-width: 10px;
-  border-color: black;
-
+  border: solid 10px black;
+  margin: -8px 0px 0px -8px;
 
 }
 
@@ -14,14 +12,14 @@
   background-color: #98B28C;
   height: 200px;
   width: 200px;
-  border: 20px;
-  margin: 0px;
-
+  border: solid black 20px;
+  margin-left: 250px;
 }
 
 .bottom-container {
   background-color: #6C925B;
   height: 200px;
   width: 200px;
-  border: 20px;
+  border: solid 10px black;
+  margin-left: 490px;
 }
